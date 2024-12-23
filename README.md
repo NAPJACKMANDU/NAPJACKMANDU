@@ -1,5 +1,8 @@
 ## NAPJACKMANDU 👋
 
+![NAPJACKMANDU (1)](https://github.com/user-attachments/assets/371dd38e-7b16-45c3-8a28-5bf8217ccf2c)
+
+
 <br>
 
 ## 🌸 Project 🌸
