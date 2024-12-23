@@ -3,7 +3,7 @@
 <br>
 
 ## 🌸 Project 🌸
-- AI 활용 CCTV 실시간 안전 모니터링 솔루션 <b>CCCALLCALL PROJECT</b> (2024.11.27 ~ 2024.12.19)
+- AI 활용 CCTV 실시간 안전 모니터링 솔루션 <b>SEESEECALLCALL PROJECT</b> (2024.11.27 ~ 2024.12.19)
 - KDT Hackathon <b>AIGO PROJECT</b> (2024.10 ~ 2024.11.21)
 - 데이터 기반 초보 부모를 위한 맞춤형 육아 일정 관리 서비스 <b>걸음마</b> 프로젝트 (2024.09.11 ~ 2024.09.25)
 
